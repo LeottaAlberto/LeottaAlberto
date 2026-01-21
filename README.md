@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LeottaAlberto</h1>
+<h1 align="center">Hi 👋, I'm Alberto</h1>
 <h3 align="center">A passionate fullstack and java developer from Italy</h3>
 
 - 🔭 I’m currently working on [ToDo Dash](https://github.com/LeottaAlberto/ToDo-Dash)
